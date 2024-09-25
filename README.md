@@ -1,6 +1,6 @@
 # Banishing the Vanishing Gradient
 
-## Course: COMP 473/6731 - Pattern Recognition
+## Course: Pattern Recognition
 
 **Contributors:**
 - Raymand Shojaie (40258477)
