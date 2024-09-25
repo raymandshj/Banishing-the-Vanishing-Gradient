@@ -18,7 +18,7 @@ This project aims to address the vanishing gradient problem in neural networks t
 
 ## Files Included
 
-- **Implementation Notebook (`project_notebook.ipynb`)**: This Jupyter notebook contains the code for building, training, and evaluating the neural network architectures. It includes detailed explanations, visualizations of model performance, and insights into the training process.
+- **Implementation Notebook (`473_Final_BVG.ipynb`)**: This Jupyter notebook contains the code for building, training, and evaluating the neural network architectures. It includes detailed explanations, visualizations of model performance, and insights into the training process.
 
 - **Accuracy Calculation Script (`accuracy.py`)**: A Python script dedicated to calculating and outputting the accuracy of the trained models on the CIFAR-10 dataset. This script can be executed independently to retrieve the accuracy metrics after the models have been trained.
 
