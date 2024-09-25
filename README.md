@@ -3,9 +3,9 @@
 ## Course: Pattern Recognition
 
 **Contributors:**
-- Raymand Shojaie (40258477)
-- Thomas Peschlow (40190020)
-- Santiago Buitrago (40291569)
+- Raymand Shojaie Aghabalaghe
+- Thomas Peschlow
+- Santiago Buitrago
 
 ## Overview
 
